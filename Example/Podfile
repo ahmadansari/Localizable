@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Localizable_Example' do
+  pod 'Localizable', :path => '../'
+
+  target 'Localizable_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end

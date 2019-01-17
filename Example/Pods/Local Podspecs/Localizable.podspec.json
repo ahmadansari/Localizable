@@ -1,0 +1,22 @@
+{
+  "name": "Localizable",
+  "version": "0.1.0",
+  "summary": "A short description of Localizable.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ansari.ahmad@gmail.com/Localizable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ansari.ahmad@gmail.com": "ahmad.ansari@venturedive.com"
+  },
+  "source": {
+    "git": "https://github.com/ansari.ahmad@gmail.com/Localizable.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Localizable/Classes/**/*"
+}
